@@ -1,5 +1,10 @@
 # topic-indexing
 
+NOTE:  These days, it's probably better to use seeded-LDA for this kind of task.
+See https://towardsdatascience.com/why-to-use-seeded-topic-models-in-your-next-project-and-how-to-implement-them-in-r-8502d15d6e8d
+
+---
+
 The tools in this repo use word embeddings to create topic-specific index of a provided corpus of text documents
 or conversations.  (By "index" here we mean the kind you'd find in the back of a book.)
 
