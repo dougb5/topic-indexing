@@ -1,7 +1,11 @@
 # topic-indexing
 
-NOTE:  These days, it's probably better to use seeded-LDA for this kind of task.
-See https://towardsdatascience.com/why-to-use-seeded-topic-models-in-your-next-project-and-how-to-implement-them-in-r-8502d15d6e8d
+NOTE:  
+
+This method is an outdated hack for generating keyword sets. 
+If you're looking to do semi-supervised topic classification, there are more recent methods you should consider, e.g.:
+- Keyword-Assisted Topic Models:     https://imai.fas.harvard.edu/research/files/keyATM.pdf
+- Seeded-LDA:   https://towardsdatascience.com/why-to-use-seeded-topic-models-in-your-next-project-and-how-to-implement-them-in-r-8502d15d6e8d
 
 ---
 
